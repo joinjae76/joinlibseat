@@ -1,0 +1,6 @@
+{
+  "name": "도서관 좌석 예약 시스템 (Library Seat Reservation)",
+  "description": "Google Apps Script(GAS) 및 구글 스프레드시트 연동 도서관 좌석 예약 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
